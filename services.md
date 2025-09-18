@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Our Services
+description: Professional travel services including guided tours, trip planning, and adventure experiences. Book hotels, get travel insurance, and find the best travel gear.
+keywords: travel services, guided tours, trip planning, adventure tours, travel booking, travel insurance
 ---
 
 # Our Travel Services
@@ -36,6 +38,23 @@ Tailor-made experiences designed around your interests, pace, and budget. Enjoy 
 - Cultural immersion journeys
 - Photography-focused tours
 
+## 🏨 Accommodation & Travel Essentials
+
+### Book Your Perfect Hotel
+Find the best accommodations worldwide with exclusive deals and member rates.
+
+<a href="https://booking.com?aid=123456" class="affiliate-button" style="background-color: #0071c2; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 10px 0;">🏨 Search Hotels on Booking.com</a>
+
+### Premium Travel Gear
+Travel in comfort and style with our recommended high-quality luggage and travel accessories.
+
+<a href="https://amazon.com/dp/B08X123456?tag=travelguidepro-20" class="affiliate-button" style="background-color: #ff9900; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 10px 0;">🧳 Shop Travel Gear on Amazon</a>
+
+### Travel Insurance Protection
+Protect your adventure investment with comprehensive travel insurance coverage.
+
+<a href="https://shareasale.com/r.cfm?b=123456&u=123456&m=12345" class="affiliate-button" style="background-color: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 10px 0;">🛡️ Get Travel Insurance Quote</a>
+
 ## 🗺️ Trip Planning Services
 
 ### Custom Itinerary Design
@@ -60,16 +79,16 @@ Sit back and relax while we handle every detail of your trip. From flights and a
 - **Starting from:** $800 per person
 
 ### Water Activities
-- **Scuba Diving Expeditions**
-- **Kayaking Adventures** 
-- **White Water Rafting**
-- **Sailing Tours**
+- Scuba Diving Expeditions
+- Kayaking Adventures
+- White Water Rafting
+- Sailing Tours
 
 ### Wildlife Safaris
-- **African Safaris:** Kenya, Tanzania, South Africa
-- **Amazon Rainforest Tours**
-- **Galapagos Islands Expeditions**
-- **Arctic Wildlife Viewing**
+- African Safaris: Kenya, Tanzania, South Africa
+- Amazon Rainforest Tours
+- Galapagos Islands Expeditions
+- Arctic Wildlife Viewing
 
 ## 🏛️ Cultural Experiences
 
@@ -136,14 +155,16 @@ High-end accommodations, private jets, exclusive access, and personalized servic
 
 *Travel insurance strongly recommended for all bookings*
 
----
-
 ## Ready to Start Your Adventure?
 
-**Contact us today to discuss your travel dreams!**
+Contact us today to discuss your travel dreams!
 
-📧 [Get in touch](/contact)  
+📧 [Get in touch](contact.md)  
 📞 Call us for immediate assistance  
 💬 Live chat available on our website
+
+---
+
+**Affiliate Disclosure**: Travel Guide Pros participates in affiliate marketing programs with Booking.com, Amazon, and ShareASale partners. We may earn commissions on qualifying purchases made through our links, which helps support our website and allows us to continue providing valuable travel services and recommendations.
 
 *"The world is a book and those who do not travel read only one page." - Saint Augustine*
