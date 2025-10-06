@@ -1,0 +1,27 @@
+title: Travel Guide Professionals
+email: contact@travelguidepros.com
+description: >-
+  Professional travel guide services for unforgettable journeys.
+  Expert guides providing authentic local experiences and
+  personalized travel solutions.
+baseurl: ""
+url: "https://artificialsight.github.io"
+repository: "ArtificialSight/travelguidepros-site"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
